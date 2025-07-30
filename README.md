@@ -92,8 +92,8 @@ module.exports = [
 📸 Screenshots
 Here’s a preview of the AutoComplete feature:
 
-![Search Demo](./ScreenShots/SS1.png)
-![Search Demo](./ScreenShots/SS2.png)
+![Search Demo](ScreenShots/SS1.png)
+![Search Demo](ScreenShots/SS2.png)
 
 🚧 Future Improvements
  Connect to a real-time database (e.g., MongoDB or Firebase)
